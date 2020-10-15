@@ -481,11 +481,24 @@ mark,
   height: auto;
 }
 
-.monarch-img {
-  max-width: 320px;
-  height: 320px;
+.monarch-Tristan-img{
+  max-width: 100%;
+  height: 12.5rem;
+  background-image: url('../images/Tristan.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
+
+.monarch-Mike-img{
+  max-width: 100%;
+  height: 12.5rem;
+  background-image: url('../images/Mike.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 
 .img-thumbnail {
   padding: 0.25rem;

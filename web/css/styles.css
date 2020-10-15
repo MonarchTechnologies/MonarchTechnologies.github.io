@@ -1458,12 +1458,29 @@ input[type='checkbox'] {
 	border-radius: 50%;
 }
 
+.basic-4 .monarch-wrapper {
+	overflow: hidden;
+	margin-bottom: 1.5rem;
+	border-radius: 150%;
+}
+
 .basic-4 .image-wrapper img {
 	margin: 0;
 	transition: all 0.3s;
 }
 
 .basic-4 .image-wrapper:hover img {
+	-moz-transform: scale(1.15);
+	-webkit-transform: scale(1.15);
+	transform: scale(1.15);
+} 
+
+.basic-4 .monarch-wrapper img {
+	margin: 0;
+	transition: all 0.3s;
+}
+
+.basic-4 .monarch-wrapper:hover img {
 	-moz-transform: scale(1.15);
 	-webkit-transform: scale(1.15);
 	transform: scale(1.15);
