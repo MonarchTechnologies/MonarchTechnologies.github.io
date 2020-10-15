@@ -481,6 +481,12 @@ mark,
   height: auto;
 }
 
+.monarch-img {
+  max-width: 320px;
+  height: 320px;
+}
+
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
