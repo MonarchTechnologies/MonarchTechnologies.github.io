@@ -1468,23 +1468,12 @@ input[type='checkbox'] {
 	margin: 0;
 	transition: all 0.3s;
 }
-
-.basic-4 .image-wrapper:hover img {
-	-moz-transform: scale(1.15);
-	-webkit-transform: scale(1.15);
-	transform: scale(1.15);
-} 
-
+ 
 .basic-4 .monarch-wrapper img {
 	margin: 0;
 	transition: all 0.3s;
 }
 
-.basic-4 .monarch-wrapper:hover img {
-	-moz-transform: scale(1.15);
-	-webkit-transform: scale(1.15);
-	transform: scale(1.15);
-} 
 /* end of hover animation */
 
 .basic-4 .team-member .p-large {
